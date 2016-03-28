@@ -1,0 +1,28 @@
+name: Mysticnationradio
+favicon: null
+layout_spectrum: 0.6689037990290672
+typography_spectrum: 0.42918950831517577
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3708299617283046
+  lightness: 0.9863110221922398
+  saturation: 0.04787769517861307
+  rhythmicContrast: 0.31014647986739874
+purpose: []
